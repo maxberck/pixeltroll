@@ -131,7 +131,7 @@ function HomePage({ onPatient, onImpatient, onDaily }: Props) {
 
           {/* Soutien du projet — remplace YOUR_USERNAME par ton vrai identifiant Buy Me a Coffee. */}
           <a
-            href="https://www.buymeacoffee.com/YOUR_USERNAME"
+            href="https://buymeacoffee.com/f8rbvfvwz4o"
             target="_blank"
             rel="noreferrer"
             className="mt-3 sm:mt-4 flex w-full items-center justify-center gap-2 border-2 border-black bg-[#FFDD57] px-3 py-2 font-mono text-[11px] sm:text-xs font-black text-black shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] active:translate-x-0.5 active:translate-y-0.5 active:shadow-none transition-transform"

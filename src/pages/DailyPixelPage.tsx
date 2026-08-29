@@ -221,7 +221,7 @@ function DailyPixelGame({ onHome, alreadyPlayedToday }: { onHome: () => void; al
         onClick={(e) => e.stopPropagation()}
       >
         <a
-          href="https://www.buymeacoffee.com/YOUR_USERNAME"
+          href="https://buymeacoffee.com/f8rbvfvwz4o"
           target="_blank"
           rel="noreferrer"
           onClick={(e) => e.stopPropagation()}

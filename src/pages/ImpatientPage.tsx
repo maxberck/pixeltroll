@@ -119,7 +119,7 @@ export default function ImpatientPage({ onHome }: { onHome: () => void }) {
         onClick={(e) => e.stopPropagation()}
       >
         <a
-          href="https://www.buymeacoffee.com/YOUR_USERNAME"
+          href="https://buymeacoffee.com/f8rbvfvwz4o"
           target="_blank"
           rel="noreferrer"
           onClick={(e) => e.stopPropagation()}
