@@ -1,0 +1,126 @@
+[
+    {
+        "clics": 10,
+        "texte": "Bon début ! Plus que {{REMAINING}} pixels à tester."
+    },
+    {
+        "clics": 30,
+        "texte": "C'est bien, tu prends tes repères. Respire."
+    },
+    {
+        "clics": 75,
+        "texte": "Belle régularité dans le geste. Garde ce rythme."
+    },
+    {
+        "clics": 150,
+        "texte": "Statistiquement, chaque clic te rapproche... en théorie."
+    },
+    {
+        "clics": 250,
+        "texte": "Un quart de millier. La patience est une vertu rare."
+    },
+    {
+        "clics": 500,
+        "texte": "Et bah alors ? Continue, tu vas pas abandonner quand même. Réussis au moins un truc cette semaine."
+    },
+    {
+        "clics": 1000,
+        "texte": "1 000 clics... Allez lâche rien, prouve-toi que t'es capable de finir quelque chose."
+    },
+    {
+        "clics": 1800,
+        "texte": "Baisse pas les bras maintenant. Le pixel est peut-être sous ton prochain clic."
+    },
+    {
+        "clics": 2500,
+        "texte": "2 500 clics. Si tu quittes maintenant, tout ce temps aura servi à rien."
+    },
+    {
+        "clics": 5000,
+        "texte": "5 000 clics... C'est plus du jeu là, c'est une question de fierté personnelle."
+    },
+    {
+        "clics": 10000,
+        "texte": "10 000 clics. Tu vas vraiment laisser un carré de 1 pixel gagner contre toi ?"
+    },
+    {
+        "clics": 18000,
+        "texte": "18 000 trous dans l'eau. Mais ton mental d'acier commence à faire peur."
+    },
+    {
+        "clics": 25000,
+        "texte": "25 000 clics. Même un marathonien abandonnerait avant toi."
+    },
+    {
+        "clics": 50000,
+        "texte": "50 000 clics. À ce stade, personne n'a le droit de te juger. Continue."
+    },
+    {
+        "clics": 100000,
+        "texte": "100 000 clics. Tu es entré dans la légende du néant absolu."
+    },
+    {
+        "clics": 250000,
+        "texte": "250 000 clics. Le pixel s'incline devant ta détermination indestructible."
+    },
+    {
+        "temps": 30,
+        "texte": "30 secondes. La mise en jambe est faite."
+    },
+    {
+        "temps": 90,
+        "texte": "1m30... Respire un grand coup, t'as tout ton temps."
+    },
+    {
+        "temps": 240,
+        "texte": "4 minutes. Le pixel ne bouge pas, il attend."
+    },
+    {
+        "temps": 600,
+        "texte": "10 minutes de scan méthodique. Toujours fidèle au poste."
+    },
+    {
+        "temps": 1200,
+        "texte": "20 minutes. Le soleil se couche, ton clic continue."
+    },
+    {
+        "temps": 1800,
+        "texte": "30 minutes complètes. Ton niveau de persévérance est terrifiant."
+    },
+    {
+        "clics": 50,
+        "texte": "50 clics. L'échauffement est officiellement terminé."
+    },
+    {
+        "clics": 400,
+        "texte": "400 clics. Ton index commence à raconter sa vie."
+    },
+    {
+        "clics": 3500,
+        "texte": "3 500 clics. Le pixel commence à culpabiliser un peu. Un peu."
+    },
+    {
+        "clics": 7500,
+        "texte": "7 500 clics. Ta détermination a dépassé le seuil du raisonnable depuis longtemps."
+    },
+    {
+        "clics": 35000,
+        "texte": "35 000 clics. Des scientifiques étudient encore comment tu tiens debout."
+    },
+    {
+        "clics": 150000,
+        "texte": "150 000 clics. On dépasse le jeu vidéo, on frôle le mythe urbain."
+    },
+    {
+        "temps": 150,
+        "texte": "2 minutes 30. Le café que t'as pas pris te manque."
+    },
+    {
+        "temps": 420,
+        "texte": "7 minutes. Un épisode de série serait déjà fini."
+    },
+    {
+        "temps": 900,
+        "texte": "15 minutes. Ce n'est plus une partie, c'est une retraite spirituelle."
+    }
+]

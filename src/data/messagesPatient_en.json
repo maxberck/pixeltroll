@@ -1,0 +1,126 @@
+[
+    {
+        "clics": 10,
+        "texte": "Great start! Only {{REMAINING}} pixels left to check."
+    },
+    {
+        "clics": 30,
+        "texte": "Nice pace. Get comfortable, take a breath."
+    },
+    {
+        "clics": 75,
+        "texte": "Solid consistency. Keep that momentum going."
+    },
+    {
+        "clics": 150,
+        "texte": "Statistically, every click gets you closer... in theory."
+    },
+    {
+        "clics": 250,
+        "texte": "A quarter thousand down. Patience is a virtue."
+    },
+    {
+        "clics": 500,
+        "texte": "What's wrong? Keep going, don't quit now. Accomplish at least one thing this week."
+    },
+    {
+        "clics": 1000,
+        "texte": "1,000 misses... Don't give up, prove you can actually finish something for once."
+    },
+    {
+        "clics": 1800,
+        "texte": "Don't back down now. The pixel might literally be under your next click."
+    },
+    {
+        "clics": 2500,
+        "texte": "2,500 clicks. If you leave now, all this effort was for absolute nothing."
+    },
+    {
+        "clics": 5000,
+        "texte": "5,000 clicks... This isn't just a game anymore, it's a matter of personal pride."
+    },
+    {
+        "clics": 10000,
+        "texte": "10,000 clicks. Are you really going to let a 1px square defeat you?"
+    },
+    {
+        "clics": 18000,
+        "texte": "18,000 blank shots. Your stubborn resilience is getting scary."
+    },
+    {
+        "clics": 25000,
+        "texte": "25,000 clicks. Even a marathon runner would have tapped out."
+    },
+    {
+        "clics": 50000,
+        "texte": "50,000 clicks. At this point, nobody can judge you. Keep clicking."
+    },
+    {
+        "clics": 100000,
+        "texte": "100,000 clicks. You have officially entered the hall of fame of nothingness."
+    },
+    {
+        "clics": 250000,
+        "texte": "250,000 clicks. The pixel bows before your unbreakable willpower."
+    },
+    {
+        "temps": 30,
+        "texte": "30 seconds in. Nice little warm-up."
+    },
+    {
+        "temps": 90,
+        "texte": "1m30... Take a deep breath, you've got all day."
+    },
+    {
+        "temps": 240,
+        "texte": "4 minutes. The pixel isn't moving, it's waiting."
+    },
+    {
+        "temps": 600,
+        "texte": "10 minutes of scanning. Still right here."
+    },
+    {
+        "temps": 1200,
+        "texte": "20 minutes. Sun is setting, clicking goes on."
+    },
+    {
+        "temps": 1800,
+        "texte": "30 full minutes. Your endurance is genuinely terrifying."
+    },
+    {
+        "clics": 50,
+        "texte": "50 clicks. Warm-up officially over."
+    },
+    {
+        "clics": 400,
+        "texte": "400 clicks. Your index finger is starting to tell its life story."
+    },
+    {
+        "clics": 3500,
+        "texte": "3,500 clicks. The pixel is starting to feel a little guilty. A little."
+    },
+    {
+        "clics": 7500,
+        "texte": "7,500 clicks. Your determination passed the threshold of reasonable a long time ago."
+    },
+    {
+        "clics": 35000,
+        "texte": "35,000 clicks. Scientists are still studying how you're still standing."
+    },
+    {
+        "clics": 150000,
+        "texte": "150,000 clicks. This isn't a video game anymore, it's an urban legend."
+    },
+    {
+        "temps": 150,
+        "texte": "2 minutes 30. You're really missing that coffee you skipped."
+    },
+    {
+        "temps": 420,
+        "texte": "7 minutes. A TV episode would've ended by now."
+    },
+    {
+        "temps": 900,
+        "texte": "15 minutes. This isn't a game anymore, it's a spiritual retreat."
+    }
+]
